@@ -1,4 +1,4 @@
-# s69_math
+# math_library
 
 Implementation of your our version of the math.h library.  
 
